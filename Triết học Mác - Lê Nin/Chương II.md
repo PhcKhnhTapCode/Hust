@@ -1,4 +1,3 @@
-# Chủ nghĩa duy vật biện chứng
 ## I. Vật chất và Ý thức
 ### 1. Vật chất và phương thức tồn tại của vật chất:
 #### a. Quan niệm của chủ nghĩa duy tâm và chủ nghĩa duy vật trước Mác:
@@ -99,11 +98,11 @@ Là sự phân nhánh của con người về hiện thực khách quan, đượ
 	- Nguyên lý về mối liên hệ phổ biến
 	- Nguyên lý về sự phát triển
 ##### Nguyên lý về mối liên hệ phổ biến:
-- Khái niệm:
+- **Khái niệm:**
 	- Quan điểm siêu hình: mối liên hệ bề ngoài, ngẫu nhiên
 	- Quan điểm biện chứng:
 		- **Mối liên hệ:** là một phạm trù triết học dùng để chỉ các mối ràng buộc tương hỗ, quy định và ảnh hưởng lẫn nhau giữa các yếu tố, bộ phận trong một đối tượng hoặc giữa các đối tượng
-##### Tính chất mối liên hệ:
+###### Tính chất mối liên hệ:
 - **Tính khách quan:** Mối liên hệ là cái vốn có của sự vật hiện tượng, tồn tại độc lập với ý thức con người, con người chỉ nhận thức sự vật hiện tượng thông qua mối liên hệ vốn có của nó
 	- Bản chất sự vật hiện tượng được **hình thành biến đổi** và bộc lộ là thông qua mối liên hệ phổ biến
 - **Tính phổ biến:** Mối liên hệ diễn ra ở tất cả các sự vật hiện tượng, trong tất cả các lĩnh vực: tự nhiên, xã hội và tư duy
@@ -111,10 +110,87 @@ Là sự phân nhánh của con người về hiện thực khách quan, đượ
 	- Mối liên hệ bên trong - mối liên hệ bên ngoài
 	- Mối liên hệ bản chất - mối liên hệ không bản chất
 	- Mối liên hệ gián tiếp - mối liên hệ trực tiếp
-##### Ý nghĩa phương pháp luận:
+###### Ý nghĩa phương pháp luận:
 - **Nguyên tắc toàn diện:**
 	- Phải xem xét tất cả các mặt các mối liên hệ và các khâu trung gian của sự vật
 	- Phải phân biệt, đánh giá vị trí, vai trò của các mối liên hệ tránh dàn trải, bình quân
 	- Xem xét sự vật trong tính chỉnh thể của nó và giải quyết sự vật phải đảm bảo tính đồng bộ
 - **Nguyên tắc lịch sử cụ thể:**
 	- Phải đặt sự vật hiện tượng vào không gian, thời gian mà sự vật ra đời, tồn tại
+##### Nguyên lý về sự phát triển:
+- **Khái niệm:
+	- **Quan điểm siêu hình:**
+		- Phát triển chỉ là sự tăng giảm thuần túy về mặt số lượng hay khốil ượng, không có sự thay đổi về chất.
+		- Nguồn gốc của sự phát triển là ở bên ngoài sự vật hiện tượng
+	- **Quan điểm biện chứng:** 
+		- Phát triển là quá trình vận động từ thấp đến cao, từ kém hoàn tiện đến hoàn thiện hơn, từ chất cũ đến chất mới ở trình độ cao hơn
+###### Tính chất của sự phát triển:
+- **Tính khách quan:** biểu hiện ở chỗ nguồn gốc của phát triển nằm ngay trong chính bản thân sự vật hiện tượng (mâu thuẫn quy định), không phụ thuộc vào ý muốn chủ quan con người
+- **Tính phổ biến:** phát triển diễn ra ở tất cả các sự vật hiện tượng trong cả tự nhiên, xã hội và tư duy
+- **Tính kế thừa:** cái mới ra đời trên cơ sở kế thừa giá trị tích cực cái cũ để lại
+- **Tính phong phú, đa dạng:** Quá trình phát triển của sự vật hiện tượng không giống nhau và còn phụ thuộc vào không gian, thời gian, vào các yếu tố, điều kiện tác động lên sự phát triển đó
+###### Ý nghĩa phương pháp luận:
+- Khi xem xét sự vật hiện tượng phải luôn đặt nó trong khuynh hướng vận động, biến đổi, chuyển hoá nhằm phát hiện ra xu hướng biến đổi
+- Nhận thức sự vật hiện tượng trong tính biện chứng để thấy được tính quanh co, phữc tạp của sự phát triển
+- Biết phát hiện và ủng hộ cái mới; chống bảo thủ, trì trệ định kiến
+- Biết kế thừa các yếu tố tích cực từ đối tượng cũ và phát triển sáng tạo chúng trong điều kiện mới
+#### b. Các cặp phạm trù cơ bản của phép biện chứng duy vật:
+##### Cái riêng và cái chung:
+- **Định nghĩa:**
+	- *Cái riêng* là phạm trù tiết học dùng để chỉ một sự vật, hiện tượng nhất định
+	- *Cái chung* là phạm trù triết học dùng để chỉ những mặt, những thuộc tính chung không những có ở một sự vật, hiện tượng nào đó mà còn lặp lại trong nhiều sự vật, hiện tượng (nhiều cái riêng) khác
+	- *Cái đơn nhất* là phạm trù triết học dùng để chỉ các mặt, các đặc điểm chỉ vốn có ở một sự vật, hiện tượng (một cái riêng) nào đó mà không lặp lại ở sự vật, hiện tượng nào khác
+##### Quan hệ biện chứng giữa cái riêng và cái chung:
+- Cái chung, cái đơn nhất nằm trong cái riêng, thông qua cái riêng thể hiện sự tồn tại của mình. Không có cái chung thuần túy tồn tại bên ngoài cái riêng
+- Cái riêng chỉ tồn tại trong mối quan hệ với cái chung, không có cái riêng nào tách rời cái chung
+- Cái riêng là cái toàn bộ, phong phú hơn cái chung, vì ngoài những điểm chung, cái riêng còn có cái đơn nhất. Cái chung sâu sắc hơn cái riêng, gắn liền với bản chất, quy định phương hướng tồn tại và phát triển của cái riêng
+- Cái đơn nhất và cái chung có thể chuyển hoá lẫn nhau trong quá trình phát triển của sự vật, hiện tượng
+##### Ý nghĩa phương pháp luận:
+- Muốn nhận thức được cái chung, cái bản chất thì phải xuất phát từ cái riêng, từ những sự vật, hiện tượng riêng lẻ
+- Nhiện vụ của nhận thức là phải tìm ra cái chung và trong hoạt động thực tiễn phải dự vào cái chung để cải tạo cái riêng
+- Trong hoạt động thực tiễn ta cần chủ động tác động vào sự chuyển hoá cái mới thành cái chung để phát triển nó, và ngược lại cái cũ thành cái đơn nhất để xoá bỏ nó
+#### c. Các quy luật cơ bản của phép biện chứng duy vật:
+##### Quy luật từ những sự thay đổi về lượng dẫn đến sự thay đổi về chất và ngược lại (quy luật lượng chất):
+- **Vai trò của quy luật:** Quy luật chỉ ra *cách thức, phương thức* vận động phát triển của sự vật, hiện tượng.
+- **Khái niệm:**
+	- *Chất* là khái niệm dùng để chỉ tính quy định khách quan vốn có của sự vật, hiện tượng, là sự thống nhất hữu cơ của các thuộc tính, yếu tố tạo nên sự vật, hiện tượng làm cho sự vật, hiện tượng là nó mà không phải là sự vật, hiện tượng khác
+	- *Lượng* là khái niệm dùng để chỉ tính quy định vốn có của sự vật, hiện tượng về mặt quy mô, trình độ phát triển, các yếu tổ biểu hiện ở số lượng các thuộc tính, ở tổng số các bộ phận, ở đại lượng, ở tốc độ và nhịp điệu vận động và phát triển của sự vật, hiện tượng
+	- *Độ* là giới hạn tồn tại của sự vật hiện tượng mà trong đó, sự thay đổi về lượng chưa dẫn đến sự thay đổi về chất; sự vật, hiện tượng vẫn là nó, chưa chuyển hoá thành sự vật, hiện tượng khác
+	- *Điểm nút* là thời điểm mà tại đó xảy ra sự thay đổi về chất của sự vật, hiện tượng
+	- *Bước nhảy* dùng để chỉ quá trình chuyển hoá về chất của sự vật do sự thay đổi về lượng trước đó của sự vật gây ra
+##### Quy luật thống nhất và đấu tranh của các mặt đối lập (quy luật mâu thuẫn):
+- **Vai trò của quy luật:** Quy luật chỉ ra *nguồn gốc, động lực* của sự vận động phát triển của sự vật hiện tượng
+- **Khái niệm:**
+	- *Mặt đối lập* là những mặt yếu tố,... có khuynh hướng, tính chất trái ngược chiều nhau
+	- *Thống nhất của các mặt đối lập* là khái niệm dùng để chỉ sự liên hệ giữa các mặt đối lập
+		- Thứ nhất, các mặt đối lập nương tựa và làm tiền đề cho nhau tồn tại
+		- Thứ hai, các mặt đối lập tác động ngang nhau, cân bằng nhau
+		- Thứ ba, giữa các mặt đối lập có sự tương đồng
+	- *Đấu tranh giữa các mặt đối lập* là khái niệm dùng để chỉ sự tác động qua lại theo hướng bài trừ, phủ định lẫn nhau giữa chúng
+	- *Mâu thuẫn biện chứng* chỉ mối liên hệ thống nhất, đấu tranh, chuyển hoá lẫn nhau của các mặt đối lập
+## III. Lí luận nhận thức:
+### 1. Quan niệm về nhận thức trong lịch sử triết học:
+### 2. Lí luận của nhận thức duy vật biện chứng:
+#### a. Nguồn gốc, bản chất của nhận thức:
+- Thế giới hiện thực khách quan là nguồn gốc duy nhất và cuối cùng của nhận thức con người,
+- Bản chất: chủ nghĩa duy vật biện chứng khẳng định nhận thức là một quá trình phản ánh biện chứng về thế giới hiện thức khách quan một cách tích cực, chủ động, sáng tạo.
+#### b. Thực tiễn và vai trò của thực tiễn đối với nhận thức:
+Khái niệm:
+
+| Quan niệm trước Mác                                                                                                                                                                                                                                                                                  | Quan niệm của Mác                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CNDT: hoạt động của tinh thần nói chung là hoạt động của thực tiễn.<br><br>Triết học tôn giáo: thì cho hoạt động sáng tạo ra vũ trụ của thượng đế là hoạt động thực tiễn.<br><br>CNDVSH: sự vật, hiện tượng, cái cảm giác được, chỉ được nhận thức dưới hình thức khách thể hay hình thức trực quan. | Thực tiễn là toàn bộ hoạt động vật chất – cảm tính, có mục đích, có tính lịch sử - xã hội của con người nhằm cải tạo tự nhiên và xã hội phục vụ nhân loại tiến bộ. |
+- Các hình thức hoạt đọng thực tiễn cơ bản:
+	- Hoạt động sản xuất vật chất: là hoạt động đầu tiên và căn bản nhất giúp con người hoàn thiện cả bản tính sinh học và xã hội
+	- Hoạt động chính trị xã hội: là hoạt động nhằm biến đổi các quan hệ xã hội mà đỉnh cao nhất là biến đổi các hình thái kinh tế - xã hội
+	- Hoạt động thực nghiệm khoa học: là quá trình mô phỏng hiện thực khách quan trong phòng thí nghiệm để hình thành chân lí
+	-> Mỗi hoạt động có vai trò khác nhau nhưng sản xuất vật chất là quan trọng nhất
+- Vai trò của thực tiễn đối với nhận thức:
+	- Thực tiễn cung cấp những tài liệu, vật liệu cho nhận thức của con người
+	- Thực tiễn luôn đề ra nhu cầu, nhiệm vụ và phương hướng phát triển của nhận thức, rèn luyện các giác quan của con người ngày càng tinh tế hơn, hoàn thiện hơn
+- Thực tiễn là mục đích của nhận thức:
+	- Nhận thức của con người là nhằm phục vụ thực tiễn, soi đường, dẫn dắt, chỉ đạo thực tiễn
+	- Tri thức chỉ có ý nghĩa khi nó được áp dụng vào đời sống thực tiễn một cách trực tiếp hay gián tiếp để phục vụ con người
+- Thực tiễn là tiêu chuẩn để kiểm tra chân lí:
+	- Chi qua thực nghiệm mới có thể xác định tính đúng đắn của một tri thức.
+#### c. Các giai đoạn cơ bản của quá trình nhận thức:
