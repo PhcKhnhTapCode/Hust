@@ -1,27 +1,32 @@
 # My Academic Journey at HUST 🎓
 
-Welcome to my **FIRST** repository! This project serves as a comprehensive archive of my academic growth, coursework, and lecture materials during my time at **Hanoi University of Science and Technology (HUST)**.
+Welcome to my repository! This project serves as a comprehensive archive of my academic growth, coursework, and lecture materials during my time at Hanoi University of Science and Technology (HUST).
 
----
 ## 🌟 About Me
+I am currently a **second-year** student at HUST, continuing to navigate my way through the exciting (and sometimes intense) life of a "HUSTer". 
 
-I am currently a first-year student at **HUST**, navigating my way through the exciting (and sometimes intense) life of a "HUSTer".
+As my academic journey progresses, this repository evolves with me. It will be continuously updated and expanded as I delve deeper into core computer science concepts, software engineering, and mathematical optimization in the years to come.
 
-As my academic journey has just begun, this repository is very much a work in progress. It will be continuously updated and expanded as I learn, grow, and take on new challenges in the years to come.
+## 📂 Repository Structure
+The materials are organized by subject, combining my foundational first-year courses with my current specialized subjects: 
 
-## 📂 Repository Structure 
-The materials are organized by subject: 
-### 🧠 Mathematics 
-* **[Giải Tích 2 (Calculus 2)](./Calculus%202):** Applications of differential calculus in geometry, multiple integrals, and parameter integrals. 
-* **[Xác suất (Probability)](./Xác%20suất):** Probability theory, random variables, atnd statistical analysis.
-### </> Programming
-* **[Toán rời rạc (Discrete Math)](./Discrete%20Math):** Logic, graph theory, and combinatorics (crucial foundational concepts for algorithm design). 
-* **[Tối ưu hóa (Fundamentals of Optimization)](./Tối%20ưu%20hóa):** Linear programming, optimization models, and operational research. 
-### 🏛️ Political Science & Philosophy 
-* **[Triết học Mác - Lê Nin](./Triết%20học%20Mác%20-%20Lê%20Nin):**  The origin and development of Marxist-Leninist philosophy, dialectical materialism, and and historical materialism.
-## 🛠 Tools & Workflow 
-* **Version Control:** Git & GitHub (Tracking progress systematically after each lecture). 
-* **Documentation:** Markdown, LaTeX (for mathematical formulas and assignments).
+### 🧠 Mathematics
+*   **Calculus 2 (Giải Tích 2)**
+*   **Calculus 3 (Giải Tích 3)** 
+*   **Probability & Statistics (Xác suất thống kê)**
 
----
-*“Knowledge is not just about learning, but about how it shapes your mindset.”*
+### </> Computer Science & Programming
+*   **Discrete Math (Toán rời rạc):** Logic, graph theory, and combinatorics (crucial foundational concepts for algorithm design and competitive programming). 
+*   **OOP (Object-Oriented Programming):** Core principles of object-oriented design (Encapsulation, Inheritance, Polymorphism, Abstraction) and system architecture, applied using languages like C++ and Java.
+*   **Computer Architecture (Kiến trúc máy tính):** The fundamental operations of computer hardware, logic design, memory hierarchy, and instruction sets.
+*   **Optimization (Tối ưu hóa):** Linear programming, optimization models, and operational research. 
+
+### 🏛️ Political Science & Philosophy
+*   **Triết học Mác - Lê Nin:** The origin and development of Marxist-Leninist philosophy, dialectical materialism, and historical materialism.
+
+## 🛠 Tools & Workflow
+*   **Version Control:** Git & GitHub (Tracking progress systematically after each lecture and managing project codebases). 
+*   **Documentation:** Markdown, LaTeX (for mathematical formulas and assignments).
+
+
+> “Knowledge is not just about learning, but about how it shapes your mindset.”
